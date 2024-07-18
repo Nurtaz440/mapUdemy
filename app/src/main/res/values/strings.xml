@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="api_key" templateMergeStrstegy="preserve" translatable="false" >AIzaSyCQ8K5yyYTNdc-VePfBJvWWm6yTWtcANlo</string>
+</resources>
